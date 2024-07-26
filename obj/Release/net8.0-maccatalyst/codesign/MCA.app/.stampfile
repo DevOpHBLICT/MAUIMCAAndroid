@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/neil/Downloads/MAUIMCAAndroid-main 2/MCA/obj/Release/net8.0-maccatalyst/Entitlements.xcent /Users/neil/Downloads/MAUIMCAAndroid-main 2/MCA/bin/Release/net8.0-maccatalyst/MCA.app

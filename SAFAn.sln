@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAFAn", "SAFAn.csproj", "{CF8E9A83-0FD1-4E32-94DF-7042EA6B2768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Any CPU = Release|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF8E9A83-0FD1-4E32-94DF-7042EA6B2768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8E9A83-0FD1-4E32-94DF-7042EA6B2768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8E9A83-0FD1-4E32-94DF-7042EA6B2768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8E9A83-0FD1-4E32-94DF-7042EA6B2768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E719C3-F4C4-45BE-9200-7AAB68F921BF}
+	EndGlobalSection
+EndGlobal

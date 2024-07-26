@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="MCA.app/Contents/MacOS/MCA">
+      <BCSymbolMapName>MCA.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>MCA.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/neil/Downloads/MAUIMCAAndroid-main 2/MCA/obj/Release/net8.0-maccatalyst/mtouch-symbols-maccatalyst-x64.list</SymbolFile>
+      <DSymName>MCA.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/neil/Downloads/MAUIMCAAndroid-main 2/MCA</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
